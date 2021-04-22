@@ -1,3 +1,4 @@
+<! DOCTYPE>
 <html>
   <meta property="fb:pages" content="103298124884079" />
   <body>
